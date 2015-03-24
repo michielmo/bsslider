@@ -1,0 +1,21 @@
+{
+    "name": "michielm/yii2-bsslider",
+    "description": "slides all your images with the ability to navigate using touch",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","slider"],
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Michiel Mooibroek",
+            "email": "michiel@mooibroek.org"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "bsslider\\": ""
+        }
+    }
+}
