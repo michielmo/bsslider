@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Bootstrap carousal and modal based responsive image slider
 ==========================================================
 slides all your images with the ability to navigate using touch
@@ -29,3 +30,7 @@ Once the extension is installed, simply use it in your code by  :
 
 ```php
 <?= \bsslider\AutoloadExample::widget(); ?>```
+=======
+# bsslider
+Yii2 bootstrap based responsive image slider extension
+>>>>>>> 62e62549662be07e8e7660c8c9ecc54fef180cf8
